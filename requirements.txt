@@ -1,0 +1,13 @@
+jupyter
+jupyterlab
+jupyter_nbextensions_configurator
+lckr-jupyterlab-variableinspector
+matplotlib
+networkx
+nltk
+numpy
+pandas
+scipy
+scikit-learn
+pmaw
+praw
