@@ -19,7 +19,7 @@ Generally:
 
 ### Explain like I am a Scientist: The Linguistic Barriers of Entry to r/science
 
-![Untitled](reading%20notes%2017f8dfe64e0d485bb0e08df677418471/Untitled%201.png)
+![Untitled](./Untitled%201.png)
 
 classification-based
 
@@ -39,7 +39,7 @@ I think comparing distributions of word use over time.
 
 They use very simple measure of specificity and volatility of language within a community to characterize 300 reddit communities. They also relate it to retention
 
-![Untitled](reading%20notes%2017f8dfe64e0d485bb0e08df677418471/Untitled%202.png)
+![Untitled](./Untitled%202.png)
 
 ### Characterizing the Language of Online Communities and its Relation to Community Reception
 
