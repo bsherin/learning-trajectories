@@ -7,7 +7,7 @@ Generally:
     - Can look at distributions of word use and compare them
     - Can build a n-gram language model for one sample, then predict probability of the other
     
-    ![Untitled](reading%20notes%2017f8dfe64e0d485bb0e08df677418471/Untitled.png)
+    ![Untitled](./Untitled.png)
     
     - Can calculate word embeddings for each sample and compare individual words via cosine
     - Classification-based
